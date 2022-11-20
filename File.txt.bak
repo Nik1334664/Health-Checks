@@ -3,3 +3,12 @@ updated
 Final Testing for commit
 
 This added in 1st step of Experimental Branch
+<<<<<<< HEAD
+
+#################################
+Adding change in local repo and to puch to remote repo, whereas updating this very filein remote repo as well to see fail in push as content would be diffrent.
+=======
+#######################################################
+
+meking change in the file in remote repo so that change which is made in local repo would be abled to push here.
+>>>>>>> 762391d837e1bc061c1b950b5bda6d20f4294790

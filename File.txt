@@ -4,5 +4,7 @@ Final Testing for commit
 
 This added in 1st step of Experimental Branch
 
+
 #################################
-Adding change in local repo and to puch to remote repo, whereas updating this very filein remote repo as well to see fail in push as content would be diffrent.
+
+merging the changes of both local and remote repo together so erase merge conflict and sort out push.
