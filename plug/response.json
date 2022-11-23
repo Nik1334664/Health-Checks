@@ -1,0 +1,131 @@
+{
+	"KPIS": [
+		"Device Description",
+		"Device Index",
+		"Device Status",
+		"Device Type"
+	],
+	"raw_data": {
+		"0": [
+			"GenuineIntel: Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz",
+			"196608",
+			"2",
+			".1.3.6.1.2.1.25.3.1.3"
+		],
+		"1": [
+			"GenuineIntel: Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz",
+			"196609",
+			"2",
+			".1.3.6.1.2.1.25.3.1.3"
+		],
+		"2": [
+			"GenuineIntel: Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz",
+			"196610",
+			"2",
+			".1.3.6.1.2.1.25.3.1.3"
+		],
+		"3": [
+			"GenuineIntel: Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz",
+			"196611",
+			"2",
+			".1.3.6.1.2.1.25.3.1.3"
+		],
+		"4": [
+			"GenuineIntel: Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz",
+			"196612",
+			"2",
+			".1.3.6.1.2.1.25.3.1.3"
+		],
+		"5": [
+			"GenuineIntel: Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz",
+			"196613",
+			"2",
+			".1.3.6.1.2.1.25.3.1.3"
+		],
+		"6": [
+			"GenuineIntel: Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz",
+			"196614",
+			"2",
+			".1.3.6.1.2.1.25.3.1.3"
+		],
+		"7": [
+			"GenuineIntel: Intel(R) Xeon(R) Platinum 8168 CPU @ 2.70GHz",
+			"196615",
+			"2",
+			".1.3.6.1.2.1.25.3.1.3"
+		],
+		"8": [
+			"network interface lo",
+			"262145",
+			"2",
+			".1.3.6.1.2.1.25.3.1.4"
+		],
+		"9": [
+			"network interface ens160",
+			"262146",
+			"2",
+			".1.3.6.1.2.1.25.3.1.4"
+		],
+		"10": [
+			"network interface ens192",
+			"262147",
+			"2",
+			".1.3.6.1.2.1.25.3.1.4"
+		],
+		"11": [
+			"SCSI disk (/dev/sda)",
+			"393232",
+			"None",
+			".1.3.6.1.2.1.25.3.1.6"
+		],
+		"12": [
+			"LVM volume (em7vg-home)",
+			"393280",
+			"None",
+			".1.3.6.1.2.1.25.3.1.6"
+		],
+		"13": [
+			"LVM volume (em7vg-tmp)",
+			"393296",
+			"None",
+			".1.3.6.1.2.1.25.3.1.6"
+		],
+		"14": [
+			"LVM volume (em7vg-var_log)",
+			"393312",
+			"None",
+			".1.3.6.1.2.1.25.3.1.6"
+		],
+		"15": [
+			"LVM volume (em7vg-var)",
+			"393328",
+			"None",
+			".1.3.6.1.2.1.25.3.1.6"
+		],
+		"16": [
+			"LVM volume (em7vg-var_log_audit)",
+			"393344",
+			"None",
+			".1.3.6.1.2.1.25.3.1.6"
+		],
+		"17": [
+			"LVM volume (em7vg-swap)",
+			"393360",
+			"None",
+			".1.3.6.1.2.1.25.3.1.6"
+		],
+		"18": [
+			"LVM volume (em7vg-root)",
+			"393376",
+			"None",
+			".1.3.6.1.2.1.25.3.1.6"
+		],
+		"19": [
+			"Guessing that there's a floating point co-processor",
+			"786432",
+			"None",
+			".1.3.6.1.2.1.25.3.1.12"
+		]
+	},
+	"label": {}
+}
